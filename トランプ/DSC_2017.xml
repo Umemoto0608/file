@@ -1,0 +1,26 @@
+<annotation>
+	<folder>トランプ</folder>
+	<filename>DSC_2017.JPG</filename>
+	<path>C:\Users\katak\OneDrive\デスクトップ\新しいフォルダー\トランプ\DSC_2017.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5504</width>
+		<height>3096</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>heart eight</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2647</xmin>
+			<ymin>1011</ymin>
+			<xmax>3611</xmax>
+			<ymax>1748</ymax>
+		</bndbox>
+	</object>
+</annotation>
